@@ -8,5 +8,4 @@ He tenido la oportunidad de tocar en varios lugares y disfrutar mucho de la expe
 Tambien me gusta mucho escuchar musica, me gusta mucho guns n roses y megadeth.
 
 Actualmente estoy estudiando una ingeniería en la universidad iberoamericana de puebla, mi area de enfoque es la mecatrónica
--
 - hola_
