@@ -16,7 +16,7 @@ Actualmente estoy estudiando una ingeniería en la universidad iberoamericana de
 Tengo 4 mascotas
 
 ![Foto de mis animales - aquí va la descripción](docs/recursos/Fotos.jpg)
-
+<img src="../recursos/imgs/fotos.jpeg">
 ---
 
 ## Fotos personales
