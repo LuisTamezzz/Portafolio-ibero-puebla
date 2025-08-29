@@ -15,24 +15,16 @@ Actualmente estoy estudiando una ingeniería en la universidad iberoamericana de
 
 Tengo 4 mascotas
 
-![Foto 1](docs/recursos/imgs/Fotosw.jpg)
+![Foto 1](docs/recursos/imgs/fotosw2.jpeg)
 
-<img src="docs/recursos/imgs/Fotosw.jpg" alt="Foto 1" width="420">
-
-
+<img src="docs/recursos/imgs/Fotosw.jpeg" alt="Foto 1" width="420">
 ---
 
 ## Fotos personales
 
-![Foto personal](docs/recursos/imgs/FotoL.jpg)
+![Foto mia](recursos/imgs/fotol2.jpeg)
 
-<img src="docs/recursos/imgs/FotoL.jpg" alt="Foto personal" width="420">
-
-
-![Diagrama del sistema](recursos/imgs/fotol2.jpeg)
-
-<!-- Control de tamaño usando HTML (cuando se requiera) -->
-<img src="../recursos/imgs/fotol2.jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imgs/fotol2.jpeg" alt="Foto mia" width="420">
 
 ---
 
