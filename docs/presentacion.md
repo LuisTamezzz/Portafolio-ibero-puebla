@@ -17,7 +17,7 @@ Tengo 4 mascotas
 
 ![Foto 1](docs/recursos/imgs/fotosw2.jpeg)
 
-<img src="docs/recursos/imgs/Fotosw.jpeg" alt="Foto 1" width="420">
+<img src="docs/recursos/imgs/Fotosw2.jpeg" alt="Foto 1" width="420">
 ---
 
 ## Fotos personales
