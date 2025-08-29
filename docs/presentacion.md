@@ -15,6 +15,11 @@ Actualmente estoy estudiando una ingeniería en la universidad iberoamericana de
 
 Tengo 4 mascotas
 
+![Foto 1](docs/recursos/imgs/Fotosw.jpg)
+
+<!-- Control de tamaño usando HTML (cuando se requiera) -->
+<img src="docs/recursos/imgs/Fotosw.jpg" alt="Foto 1" width="420">
+
 
 ---
 
