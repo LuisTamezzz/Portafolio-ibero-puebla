@@ -20,6 +20,8 @@ Tengo 4 mascotas
 
 ## Fotos personales
 
+![Diagrama del sistema](docs/recursos/imgs/FotoL.jpg)
+<img src="docs/recursos/imgs/FotoL.jpg" alt="Diagrama del sistema" width="420">
 ![Foto personal 1](ruta/a/tu_foto1.jpg)  
 ![Foto personal 2](ruta/a/tu_foto2.jpg)
 
