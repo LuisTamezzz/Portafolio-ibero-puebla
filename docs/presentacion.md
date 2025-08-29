@@ -17,7 +17,6 @@ Tengo 4 mascotas
 
 ![Foto 1](docs/recursos/imgs/Fotosw.jpg)
 
-<!-- Control de tamaño usando HTML (cuando se requiera) -->
 <img src="docs/recursos/imgs/Fotosw.jpg" alt="Foto 1" width="420">
 
 
@@ -27,8 +26,13 @@ Tengo 4 mascotas
 
 ![Foto personal](docs/recursos/imgs/FotoL.jpg)
 
-<!-- Control de tamaño usando HTML (cuando se requiera) -->
 <img src="docs/recursos/imgs/FotoL.jpg" alt="Foto personal" width="420">
+
+
+![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+
+<!-- Control de tamaño usando HTML (cuando se requiera) -->
+<img src="../recursos/imgs/ibero.jpeg" alt="Diagrama del sistema" width="420">
 
 ---
 
