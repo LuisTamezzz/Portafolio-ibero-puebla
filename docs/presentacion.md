@@ -29,10 +29,10 @@ Tengo 4 mascotas
 <img src="docs/recursos/imgs/FotoL.jpg" alt="Foto personal" width="420">
 
 
-![Diagrama del sistema](recursos/imgs/ibero.jpeg)
+![Diagrama del sistema](recursos/imgs/fotol2.jpeg)
 
 <!-- Control de tamaño usando HTML (cuando se requiera) -->
-<img src="../recursos/imgs/ibero.jpeg" alt="Diagrama del sistema" width="420">
+<img src="../recursos/imgs/fotol2.jpeg" alt="Diagrama del sistema" width="420">
 
 ---
 
