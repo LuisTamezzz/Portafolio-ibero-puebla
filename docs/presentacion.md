@@ -19,14 +19,14 @@ Tengo 4 mascotas
 
 ---
 
-## 📸 Fotos personales
+## Fotos personales
 
 ![Foto personal 1](ruta/a/tu_foto1.jpg)  
 ![Foto personal 2](ruta/a/tu_foto2.jpg)
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 Mi contacto es este:  
 ✉ [204109@iberopuebla.mx](mailto:204109@iberopuebla.mx)
