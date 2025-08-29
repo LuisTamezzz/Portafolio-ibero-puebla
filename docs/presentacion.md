@@ -21,8 +21,6 @@ Tengo 4 mascotas
 
 ## 📸 Fotos personales
 
-Aquí puedes agregar algunas fotos personales o relacionadas con tu música y tu vida universitaria.
-
 ![Foto personal 1](ruta/a/tu_foto1.jpg)  
 ![Foto personal 2](ruta/a/tu_foto2.jpg)
 
@@ -30,7 +28,7 @@ Aquí puedes agregar algunas fotos personales o relacionadas con tu música y tu
 
 ## 📬 Contacto
 
-Si quieres contactarme, puedes escribirme a:  
+Mi contacto es este:  
 ✉ [204109@iberopuebla.mx](mailto:204109@iberopuebla.mx)
 
 ---
