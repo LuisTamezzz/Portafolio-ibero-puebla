@@ -19,7 +19,7 @@ Tengo 4 mascotas
 
 ![Foto con mis perros](recursos/imgs/fotosw2.jpeg)
 
-<img src="../recursos/imgs/fotosw2.jpeg" alt="Foto con mis perros" width="420">
+<img src="../recursos/imgs/fotosw2.jpeg" alt="Foto con mis perros" width="420" height="400">
 ---
 
 ## Fotos personales
