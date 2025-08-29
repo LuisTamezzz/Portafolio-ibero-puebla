@@ -26,7 +26,7 @@ Tengo 4 mascotas
 
 ![Foto mia](recursos/imgs/fotol2.jpeg)
 
-<img src="../recursos/imgs/fotol2.jpeg" alt="Foto mia" width="50%">
+<img src="../recursos/imgs/fotol2.jpeg" alt="Foto mia" width="50%"/>
 
 ---
 
